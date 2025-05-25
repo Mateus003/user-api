@@ -12,7 +12,7 @@ type Rest_Err struct {
 }
 
 type Causes struct {
-	Filed   string `json:"field"`
+	Field   string `json:"field"`
 	Message string `json:"message"`
 }
 
